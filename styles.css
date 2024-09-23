@@ -1,0 +1,34 @@
+/* General Body Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8d7da; /* Soft red background */
+    color: #333; /* Dark grey text for readability */
+    margin: 0;
+    padding: 0;
+}
+
+/* Header Styles */
+header {
+    background-color: #003366; /* Dark blue background */
+    color: #fff; /* White text */
+    padding: 10px 0;
+    text-align: center;
+}
+
+/* Navigation Styles */
+nav ul {
+    background-color: #003366; /* Dark blue background */
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline-block; /* Inline-block for better control of spacing */
+    margin-right: 10px;
+}
+
+nav ul li a {
+    color:#fff
+}
